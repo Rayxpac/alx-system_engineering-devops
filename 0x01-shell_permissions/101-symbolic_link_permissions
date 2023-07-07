@@ -1,2 +1,2 @@
 #!/bin/bash
-chownv -h vincent:staff _hello
+chown -h vincent:staff _hello
