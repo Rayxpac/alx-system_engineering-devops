@@ -1,0 +1,2 @@
+#!/bin/bash
+chownv -h vincent:staff _hello
